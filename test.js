@@ -86,6 +86,27 @@ console.log("=================================");
 
 // 5번 문제 - 배열 출력
 
+function swap(strArr, idx1, idx2) {
+    let temp = strArr[i];
+
+}
+
+function permute(strArr, begin, end) {
+    
+}
+
+function permuteArray(strArr) {
+    
+}
+
+console.log("5번 문제");
+permuteArray(["1", "2", "3"]);
+console.log("=================================");
+
+
+
+
+
 
 // 6번 문제 - 회문 판별
 
