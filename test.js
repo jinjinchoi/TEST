@@ -87,7 +87,6 @@ console.log("=================================");
 // 5번 문제 - 배열 출력
 
 
-
 // 6번 문제 - 회문 판별
 
 function isPalindromeRecursive(word) {
